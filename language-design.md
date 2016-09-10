@@ -53,6 +53,7 @@ that influence which programming languages we learn and use.
 > They created a "placebo languages" called Randomo, whose syntax was randomly
 > generated, to use in trials alongside Quorum and Perl.
 [[Pavlus, 2012]](https://www.fastcodesign.com/1665735/why-arent-computer-programming-languages-designed-better)
+
 We really did not understand what it meant ot have syntax that was randomly
 generated.  Does this mean that commands are random collections of letters of
 length zero to infinity and where you place braces, semicolons, and other such
@@ -67,6 +68,7 @@ google searching revealed a definition of Randomo says it is:
 > operators (e.g., addition, subtraction, multiplication, division), many of the
 > keywords and symbols were chosen randomly from the ASCII table. 
 [[Stefik, 20000]](https://ecs.victoria.ac.nz/foswiki/pub/Events/PLATEAU/Program/plateau2011-stefik.pdf)
+
 However if based on this definition Randomo is based off of Quorum, which the
 study did show that people liked better than perl.  So it is quite misleading
 to say that people liked a randomly generated langauge better than perl when in
